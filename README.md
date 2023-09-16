@@ -87,7 +87,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="InputMapperPlugin.gif" alt="Logo">
+<div align="center">
+    <img src="InputMapperPlugin.gif" alt="Logo">
+</div>
 
 This plugin aims to help users when creating a new project. Instead of manually adding all the action and button events to the Input Map screen; this plugin allows users to save/load premade mappings. Presets are saved as `.godot` files which makes sharing also quick and simple.
 
