@@ -50,7 +50,7 @@
     <br />
     <a href="https://youtu.be/AXzB8PwnmhA">Video Tutorial</a>
     ·
-    <a>Latest Relase</a>
+    <a href="https://github.com/EladKarni/InputMapperPresetLoader/releases">Latest Relase</a>
     ·
     <a href="https://github.com/EladKarni/InputMapperPresetLoader/issues">Report Bug</a>
     ·
