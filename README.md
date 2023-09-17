@@ -147,13 +147,13 @@ Project Link: [https://github.com/EladKarni/InputMapperPresetLoader](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/EladKarni/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/EladKarni/InputMapperPresetLoader.svg?style=for-the-badge
 [contributors-url]: https://github.com/EladKarni/InputMapperPresetLoader/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/EladKarni/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/EladKarni/InputMapperPresetLoader.svg?style=for-the-badge
 [forks-url]: https://github.com/EladKarni/InputMapperPresetLoader/network/members
-[stars-shield]: https://img.shields.io/github/stars/EladKarni/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/EladKarni/InputMapperPresetLoader.svg?style=for-the-badge
 [stars-url]: https://github.com/EladKarni/InputMapperPresetLoader/stargazers
-[issues-shield]: https://img.shields.io/github/issues/EladKarni/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/EladKarni/InputMapperPresetLoader.svg?style=for-the-badge
 [issues-url]: https://github.com/EladKarni/InputMapperPresetLoader/issues
-[license-shield]: https://img.shields.io/github/license/EladKarni/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/EladKarni/InputMapperPresetLoader.svg?style=for-the-badge
 [license-url]: https://github.com/EladKarni/InputMapperPresetLoader/blob/master/LICENSE
