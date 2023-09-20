@@ -9,9 +9,9 @@ func _enter_tree():
 	InputMap.load_from_project_settings()
 	
 	InputMapperPresetsScene = editorAddon.instantiate()
-	add_tool_menu_item("Input Mapper Preset Loader", InputMapperPresetsScene)
+	add_control_to_dock(EditorPlugin.DOCK_SLOT_RIGHT_UL, InputMapperPresetsScene)
 
 
 func _exit_tree():
-	remove_tool_menu_item("Input Mapper Preset Loader")
+	remove_control_from_docks(InputMapperPresetsScene)
 	InputMapperPresetsScene.free()
