@@ -48,6 +48,8 @@
     <br />
     <a href="https://youtu.be/AXzB8PwnmhA">Video Tutorial</a>
     ·
+    <a href="https://godotengine.org/asset-library/asset/2138">Asset Library Page</a>
+    ·
     <a href="https://github.com/EladKarni/InputMapperPresetLoader/releases">Latest Relase</a>
     ·
     <a href="https://github.com/EladKarni/InputMapperPresetLoader/issues">Report Bug</a>
@@ -65,15 +67,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -101,13 +95,24 @@ This plugin aims to help users when creating a new project. Instead of manually 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+You have 2 opeions for installing the plugin:
 
-To use the plugin, you must download the source code, and put it in a your projects `addon` folder. Once that is done, restart your editor and then:
+A) __Download and install the plugin using the Godot Asset Library - https://godotengine.org/asset-library/asset/2138__
 
-1. Open Project Settings Window
-2. Navigate to the plugin tab
-3. Make sure to enable this plugin
-4. Restart the editor
+  1. In your project, go to the asset library and locate the plugin
+  2. Install the plugin
+  3. Restart your editor
+  4. Profit!
+
+__OR__
+
+B) __Download the source code, and put it in a your projects `addon` folder. Once that is done, restart your editor and then:__
+
+  1. Open Project Settings Window
+  2. Navigate to the plugin tab
+  3. Make sure to enable this plugin
+  4. Restart the editor
+  5. Profit!
 
 
 <!-- CONTRIBUTING -->
